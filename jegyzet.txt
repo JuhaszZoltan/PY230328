@@ -1,0 +1,9 @@
+# szekvencia - a program egy önmagában interpretálható ("lefuttatható") sora
+
+# szelekció - "elágazás", vagyis amikor a programkód "válaszúthoz" ér, és valamilyen feltételtől függően többféleképpen is folytatódhat
+# az ehhez tartozó VEZÉRLŐ UTASÍTÁS az if/else
+
+# iteráció - "ismétlődés" vagy "ciklus" vagyis amokor bizonyos programkód-szekvenciák bizonyos feltétel teljesüléséig VAGY egy bizonos, előre meghatározott alkalommal úja és újra végrehajtódnak
+# az ehhez tartozó vezérlők:
+# FELTÉTELES ciklus eseténe: while
+# BEJÁRÓ (más nylveken "számláló") ciklus esetén: for
